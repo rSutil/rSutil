@@ -1,8 +1,7 @@
 ### Olá, eu sou o Ricardo Sutil 👋
 
 
-- 🔭 Atualmente eu trabalho no time de Inovação do Recebimento Datasul na TOTVS. Lá trabalhamos com Progress e Angular, além de aplicar metodologias ágeis para o dia-a-dia, no time que atuo trabalhamos com fluxo puxado o Kanban.
-- 🌱 Atualmente estou estudando Java e framework String, pois quero conhecer e trabalhar com microserviços.
+- 🔭 Atualmente eu trabalho com customizações em Progress e integração com sistema da Datasul. Realizo também desenvolvimentos em Angular para o Datasul utilizando o PO-UI.
 
  <div>
   <a href="https://www.linkedin.com/in/ricardosutil/">
